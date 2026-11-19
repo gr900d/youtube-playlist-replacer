@@ -3,9 +3,10 @@
  *
  * 使い方：
  * 1. 下の設定を書き換える
- * 2. testPlaylistReplacement() で対象を確認
- * 3. 問題なければ EXECUTE = true に変更
- * 4. replacePlaylistVideos() を実行
+ * 2. EXECUTE = false に変更
+ * 3. testPlaylistReplacement() で対象を確認
+ * 4. 問題なければ EXECUTE = true に変更
+ * 5. replacePlaylistVideos() を実行
  *
  * YouTube Data API v3 の拡張サービスが必要です。
  */
